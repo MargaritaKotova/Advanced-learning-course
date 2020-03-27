@@ -1,4 +1,4 @@
-# Advanced-learning-course
+# Advanced-learning-models-course
 MSIAM program
 
 ### Introduction
